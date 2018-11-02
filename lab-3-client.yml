@@ -1,0 +1,3 @@
+spring:
+    profiles: east
+lucky word: Clover
